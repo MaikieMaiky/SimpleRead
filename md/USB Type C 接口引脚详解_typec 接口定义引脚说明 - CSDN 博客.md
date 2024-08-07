@@ -1,0 +1,3 @@
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [blog.csdn.net](https://blog.csdn.net/jf_52001760/article/details/124586412?ops_request_misc=&request_id=&biz_id=102&utm_term=typec%E5%BC%95%E8%84%9A%E8%A7%A3%E6%9E%90&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-124586412.142^v100^pc_search_result_base6&spm=1018.2226.3001.4187)
+
+> 文章浏览阅读5.3w次，点赞68次，收藏395次。1. Type C 接口特点Type C 是一组对称的连接器，在使用的过程中不需要如同使用 USBA，MinUSB，MicroUSB 那样来辨别接口方向。其次能够承受较高的功率所以可以支持高达 100W 的功率，所以使用该接口可以更好的支持快速充电，以及支持更高的数据吞吐量，普通规格也达到 10 Gb/s 的数据带宽，可用于高清视频的传输。对于同时满足以上的要求 USBA，MinUSB，MicroUSB 接口无法达到的。2. Type C 接口定义USB Type C 母口USB Type _typec接口定义引脚说明
